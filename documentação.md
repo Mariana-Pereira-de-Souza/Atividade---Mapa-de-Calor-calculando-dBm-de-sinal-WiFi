@@ -19,3 +19,11 @@
 
 [4. Referências](#c4)
 
+<br>
+
+# <a name="c1"></a> 1. Introdução
+
+&nbsp; &nbsp; &nbsp; &nbsp;Este projeto é composto de uma coleta de potência do sinal WiFi em dBm de uma rede WiFi usando um ESP32 e a publicação destes valores em uma dashboard de uma plataforma online. O projeto IoT deve posssuir um ESP32 conectado a um Wifi, medindo o sinal de radiofrequência e imprimindo os dados em dBm na porta serial da Arduino IDE, além de publicar tais valores para a plataforma. Elabore um código MQTT capaz de transferir o valor de dBm de cada instante para a plataforma online. Nesta plataforma online, configure um gráfico contínuo de valores do dBm (gráfico tempo x dBm), e realize testes em cenários distintos. No final, vá até o elevador do Inteli para simular a gaiola de Faraday. Mais detalhes, vá até o final dessa aula.
+
+
+
